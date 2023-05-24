@@ -1,0 +1,11 @@
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\bin\Debug\DrawingApp.exe.config
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\bin\Debug\DrawingApp.exe
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\bin\Debug\DrawingApp.pdb
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.Form1.resources
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.exe
+C:\Users\Humeyra Alemdar\Documents\GitHub\drawing-windows-form\obj\Debug\DrawingApp.pdb
